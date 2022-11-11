@@ -1,0 +1,30 @@
+[{
+    "id": "1",
+    "marca": "samsung",
+    "modelo": "k23",
+    "precio": 1800,
+    "img": "./css/rose.png",
+    "cantidad":"1"
+}, {
+    "id": "2",
+    "marca": "samsung",
+    "modelo": "w88",
+    "precio": 2999,
+    "img": "./css/SMARTWATCH.png",
+    "cantidad":"1"
+}, {
+    "id": "3",
+    "marca": "alcatel",
+    "modelo": "rr99",
+    "precio": 999,
+    "img": "./css/greysasa.jpg",
+    "cantidad":"1"
+}, {
+    "id": "4",
+    "marca": "smartwatch",
+    "modelo": "sol33",
+    "precio": 4999,
+    "img": "./css/blackarco.jpg",
+    "cantidad":"1"
+}
+]
